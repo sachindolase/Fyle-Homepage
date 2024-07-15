@@ -25,3 +25,14 @@ This is an assignment for the web developer internship application. The assignme
 - jQuery
 - getform.io
 
+## Screenshots :- 
+
+![Screenshot (698)](https://github.com/user-attachments/assets/4f9beaad-a766-4c51-9598-96c8d2b30fca)
+
+![Screenshot (699)](https://github.com/user-attachments/assets/59505ebe-a149-4452-b1d6-46112fe6c102)
+
+![Screenshot (700)](https://github.com/user-attachments/assets/df4a5213-cf29-409c-a254-8330d61031f6)
+
+![Screenshot (701)](https://github.com/user-attachments/assets/bd8a2808-75ee-4d21-b65f-74a7c08fe763)
+
+![Screenshot (702)](https://github.com/user-attachments/assets/3a303180-ab3b-468e-a637-8fc6a4d216ab)
